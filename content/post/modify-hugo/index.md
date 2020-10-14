@@ -17,14 +17,11 @@ aliases = ["migrate-from-jekyl"]
 This writeup gives insights on setting up a blog and modifying the sample Hugo theme - [Theme stack by Cai Jimmy]().
 <!--more-->
 
-whether it is creating a blog, portfolio website, company website etc, so many options exist. one 
+whether it is creating a blog, portfolio website, company website etc, so many options exist. I recently went on a journey of setting up a blog using Hugo. A journey which i had estimated to last not more than 30 minutes went beyond that. After an hour, I knew it was just a wishful time estimate, which was bound not happen..lol.  Based on couple of challenges i experienced, this article captures briefly the process of setting up a sample hugo blog and customizing the theme.
+ps. In this post the I only capture changing the theme color. you can go further and change other styles.
 
-You know how you have the pure delight of working on that feature, fixing the bug, writing that article. You are finally delighted to get it done. You quickly estimate, by 20minutes i should be done with this. 
-An hour or two into the entire process you just know oh crap this will be a wishful game...lol.
 
-So I'll share my experience with a bug setting up my blog with hugo.
-
-i love hugo as static site generator. It can be simple to set up(compared to other options like a full blown dynamic site with db, backend)
+I love hugo as static site generator. It can be simple to set up(compared to other options like a full blown dynamic site with db, backend)
 It is highly performant, secure and flexible. The challenge is it can be a hassle setting for non-techies.
 
 There are other [static site](https://jamstack.org/generators/) alternatives [here](https://jamstack.org/generators/).
