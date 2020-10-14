@@ -3,6 +3,7 @@ title: 中文文章内容测试
 description: 这是一个副标题
 date: 2020-09-09
 slug: test-chinese
+draft: true
 categories:
     - Test
 ---
